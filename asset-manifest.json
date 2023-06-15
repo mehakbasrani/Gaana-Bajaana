@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Gaana-Bajaana/static/css/main.7c433ae5.css",
+    "main.js": "/Gaana-Bajaana/static/js/main.b95975af.js",
+    "index.html": "/Gaana-Bajaana/index.html",
+    "main.7c433ae5.css.map": "/Gaana-Bajaana/static/css/main.7c433ae5.css.map",
+    "main.b95975af.js.map": "/Gaana-Bajaana/static/js/main.b95975af.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7c433ae5.css",
+    "static/js/main.b95975af.js"
+  ]
+}
