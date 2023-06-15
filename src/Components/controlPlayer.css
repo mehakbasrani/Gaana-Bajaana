@@ -1,0 +1,24 @@
+.controlPlayer {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 2rem;
+}
+svg {
+  color: #b3b3b3;
+  transition: 0.2s ease-in-out;
+}
+svg:hover {
+  color: white;
+}
+.state > svg {
+  color: white;
+  max-width: 300px;
+}
+
+.previous,
+.next,
+.state {
+  /* font-size: rem; */
+  max-width: 300px;
+}

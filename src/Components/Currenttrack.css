@@ -1,0 +1,20 @@
+.track {
+  display: flex;
+  align-items: center;
+  /* gap: 1rem; */
+}
+/* .track__image {
+} */
+.track__info {
+  display: flex;
+  flex-direction: column;
+  gap: 0.3rem;
+}
+.track__info__track__name {
+  color: white;
+  margin-bottom: 0px;
+}
+.track__info__track__artists {
+  color: #b3b3b3;
+  margin-top: 0px;
+}
